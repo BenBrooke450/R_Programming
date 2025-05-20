@@ -6,8 +6,8 @@ df <- iris
 print(df)
 
 virginica <- df[df$Species == "virginica",]
-print(mean(virginica$Petal.Length))
-#[1] 5.552
+print(mean(virginica$Sepal.Length))
+#[1] 6.588
 
 apply(iris[,1:4],2,mean)
 #Sepal.Length  Sepal.Width Petal.Length  Petal.Width
