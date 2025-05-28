@@ -6,6 +6,13 @@
   <component name="RMarkdownSettings">
     <option name="renderProfiles">
       <map>
+        <entry key="file://$PROJECT_DIR$/John Hopkins Data Science Foundations using R - Coursera/2.Peer-graded Assignment: Course Project 2.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/John Hopkins Data Science Foundations using R - Coursera" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/John Hopkins Data Science Foundations using R - Coursera/4.Reproducible Research/1.Peer-graded Assignment Course Project 1.Rmd">
           <value>
             <RMarkdownRenderProfile>
