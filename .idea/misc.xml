@@ -3,4 +3,17 @@
   <component name="Black">
     <option name="sdkName" value="/opt/anaconda3" />
   </component>
+  <component name="RMarkdownSettings">
+    <option name="renderProfiles">
+      <map>
+        <entry key="file://$PROJECT_DIR$/John Hopkins Data Science Foundations using R - Coursera/4.Reproducible Research/1.Peer-graded Assignment Course Project 1.Rmd">
+          <value>
+            <RMarkdownRenderProfile>
+              <option name="outputDirectoryUrl" value="file://$PROJECT_DIR$/John Hopkins Data Science Foundations using R - Coursera/4.Reproducible Research" />
+            </RMarkdownRenderProfile>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
